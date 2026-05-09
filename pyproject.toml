@@ -1,0 +1,10 @@
+[project]
+name = "gemm-ema-analytical-model-repro"
+version = "0.1.0"
+description = "Reproduction scripts for the GEMM EMA analytical model."
+requires-python = ">=3.10,<3.11"
+dependencies = [
+  "matplotlib",
+  "numpy",
+]
+
